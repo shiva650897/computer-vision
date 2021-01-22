@@ -1,2 +1,2 @@
 # computer-vision
-Implementation of Object Detection , segmentation, and instance segmentation using pytorch
+Implementation of Object Detection ,semantic segmentation and instance segmentation using pytorch
